@@ -1,0 +1,17 @@
+# Basic
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Progress bar
+tqdm
+ipywidgets
+
+# Deep Learning
+scikit-plot
+# CPU
+# tensorflow
+# GPU
+# tensorflow[and-cuda]
